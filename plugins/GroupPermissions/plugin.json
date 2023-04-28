@@ -1,0 +1,24 @@
+{
+    "name": "GroupPermissions",
+    "license": "GPL v3+",
+    "homepage": "https:\/\/github.com\/MichaelRoosz\/plugin-GroupPermissions",
+    "authors": [{
+        "name": "Michael Roosz",
+        "email": "michael.roosz@web.de"
+    }],
+    "description": "Manage user permissions with groups.",
+    "version": "4.0.5",
+    "theme": false,
+    "require": {
+        "matomo": ">=4.0.0-b1,<5.0.0-b1"
+    },
+    "keywords": [
+        "GroupPermissions",
+        "user",
+        "permission",
+        "group"
+    ],
+    "donate": {
+        "paypal": "michael.roosz@web.de"
+    }
+}
